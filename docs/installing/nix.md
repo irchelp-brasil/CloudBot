@@ -1,18 +1,18 @@
 ### Fazendo o Download
 
 #### Arquivo
-Faça o download do CloudBot de [https://github.com/TotallyNotRobots/CloudBot/zipball/gonzobot.zip](https://github.com/TotallyNotRobots/CloudBot/archive/gonzobot.zip) e desenpacote-o, ou execute os seguintes comandos:
+Faça o download do CloudBot de [https://github.com/irchelp-brasil/CloudBot/zipball/tucuju.zip](https://github.com/irchelp-brasil/CloudBot/archive/tucuju.zip) e desenpacote-o, ou execute os seguintes comandos:
 ```bash
-curl -Ls https://github.com/TotallyNotRobots/CloudBot/archive/gonzobot.zip > CloudBot.zip
+curl -Ls https://github.com/irchelp-brasil/CloudBot/archive/tucuju.zip > CloudBot.zip
 unzip CloudBot.zip
-cd CloudBot-gonzobot
+cd CloudBot-tucuju
 ```
 
 #### Git
 
 Alternativamente, você também pode clonar o CloudBot usando o comando:
 ```bash
-git clone https://github.com/TotallyNotRobots/CloudBot.git
+git clone https://github.com/irchelp-brasil/CloudBot.git
 cd CloudBot
 ```
 
