@@ -1,5 +1,5 @@
 # CloudBot
-CloudBot tucuju, (versão em português do gonzobot  - Rede Snoonet), um bot IRC open-source em Python para canais IRC.
+CloudBot - Um Simples, rápido e versátil, Bot IRC código aberto em Python!
 
 ## Download CloudBot
 
