@@ -4,31 +4,31 @@ CloudBot tucuju, (versão em português do gonzobot  - Rede Snoonet), um bot IRC
 ## Download CloudBot
 
 Há atualmente quatro versões diferentes neste repositório. Cada uma tem um nível de estabilidade e característica:
- - **tucuju** *(estável)*: Esta verão possui tudo que há na versão **master** e na versão **gonzobot** e mais as nossas traduções para o português. Também contém atualizações e correções de vários erros de grafia.
+ - **tucuju** *(estável)*: Esta versão possui tudo que há na versão **master** e na versão **gonzobot** e mais as nossas traduções para o português. Também contém atualizações e correções de vários erros de grafia.
  - **tucuju-dev** *(instável)*: Esta versão é a de desenvolvimento do **tucuju** e inclui algumas traduções que não foram ainda revisionadas.
  - **gonzobot** *(estável)*: Esta versão é a da  Rede Snoonet ou seja, sem as traduções para o português. Contém tudo que há na versão **master** com adição dos plugins adicionados pela Snoonet IRC. Esta versão é atualizada constantemente e contém correções de vários bugs da versão master.
  - **master** *(estável (antiga/original))*: Esta versão é estável, com o código testado mas sem as traduções para o português e sem alguns plugins da Rede Snoonet. Esta versão é baseada diretamente na versão upstream master e atualmente não é mais atualizada.
 
 ## Instalação do CloudBot
 
-Primeiramente, o CloudBot "roda" somente sobre **Python 3.5.3 ou superior**
+Primeiramente, o CloudBot executa somente sob **Python 3.5.3 ou superior**
 
 Para instalar o CloudBot no *nix (linux, etc), veja [aqui](docs/installing/nix.md)
 
 Para instalar o CloudBot no Windows, veja [aqui](docs/installing/win.md)
 
 
-### "Rodando" o CloudBot
+### Execução do CloudBot
 
-Antes de "rodar" o bot, renomeie o arquivo `config.default.json` para `config.json` and edite suas configurações. Você pode testar se o arquivo JSON é válido usando [jsonlint.com](http://jsonlint.com/)!
+Antes de executar o bot, renomeie o arquivo `config.default.json` para `config.json` and edite suas configurações. Você pode testar se o arquivo JSON é válido usando [jsonlint.com](http://jsonlint.com/)!
 
-Depois que você instalou as dependências necessárias e renomeou o arquivo de configuração, você pode rodar o bot! Tenha certeza de estar na pasta correta e digite o seguinte comandos:
+Depois que você instalou as dependências necessárias e renomeou o arquivo de configuração, você pode executar o bot! Tenha certeza de estar na pasta correta e digite o seguinte comandos:
 
 ```
 python3 -m cloudbot
 ```
 
-Você também pode "rodar" o bot usando diretamente o arquivo `cloudbot/__main__.py`, o qual "roda" em qualquer diretório.
+Você também pode executar o bot usando diretamente o arquivo `cloudbot/__main__.py`, o qual executa em qualquer diretório.
 ```
 python3 CloudBot/cloudbot/__main__.py
 ```
