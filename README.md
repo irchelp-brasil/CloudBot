@@ -3,8 +3,10 @@ CloudBot tucuju, (versão em português do gonzobot  - Rede Snoonet), um bot IRC
 
 ## Nota
 1 - Ate o momento não foi realizando nenhum upload das traduções. Assim que tiver realizado a primeira, esta vou retirar essa nota;
-2 - As versões **gonzobot** e **master** etão com os links direcionados para seus respectivos repositórios proprietários. Nesses dois casos, me detive a apenas traduzir o arquivo de "orientações à instalação" deles, que estão no própio repositório da IRChelp Brasil.
-2 - Veja o carquivo [CHANGELOG.md](CHANGELOG.md) para ver as últimas atualizações das traduções.
+
+2 - As versões **gonzobot** e **master** etão com os links direcionados para seus respectivos repositórios proprietários. Nesses dois casos, me detive a apenas traduzir o arquivo de "orientações à instalação" deles, que estão no própio repositório da IRChelp Brasil;
+
+3 - Veja o carquivo [CHANGELOG.md](CHANGELOG.md) para ver as últimas atualizações das traduções.
 
 ## Download CloudBot
 
