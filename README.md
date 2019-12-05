@@ -16,24 +16,24 @@ Há atualmente quatro versões diferentes neste repositório. Cada uma tem um n�
 
 ## Instalação do CloudBot
 
-Primeiramente, o CloudBot "roda" somente sobre **Python 3.5.3 ou superior**
+Primeiramente, o CloudBot executa somente sob **Python 3.5.3 ou superior**
 
 Para instalar o CloudBot no *nix (linux, etc), veja [aqui](docs/installing/nix.md)
 
 Para instalar o CloudBot no Windows, veja [aqui](docs/installing/win.md)
 
 
-### "Rodando" o CloudBot
+### Execução do CloudBot
 
-Antes de "rodar" o bot, renomeie o arquivo `config.default.json` para `config.json` and edite suas configurações. Você pode testar se o arquivo JSON é válido usando [jsonlint.com](http://jsonlint.com/)!
+Antes de executar o bot, renomeie o arquivo `config.default.json` para `config.json` e edite suas configurações. Você pode testar se o arquivo JSON é válido usando [jsonlint.com](http://jsonlint.com/)!
 
-Depois que você instalou as dependências necessárias e renomeou o arquivo de configuração, você pode rodar o bot! Tenha certeza de estar na pasta correta e digite o seguinte comandos:
+Depois que você instalou as dependências necessárias e renomeou o arquivo de configuração, você pode executar o bot! Tenha certeza de estar na pasta correta e digite o seguinte comandos:
 
 ```
 python3 -m cloudbot
 ```
 
-Você também pode "rodar" o bot usando diretamente o arquivo `cloudbot/__main__.py`, o qual "roda" em qualquer diretório.
+Você também pode executar o bot usando diretamente o arquivo `cloudbot/__main__.py`, o qual executa em qualquer diretório.
 ```
 python3 CloudBot/cloudbot/__main__.py
 ```
@@ -43,7 +43,7 @@ Especifique o caminho /caminho/para/diretorio/cloudbot/__main__.py, onde o `clou
 
 ### Documentação
 
-A documentação do CloudBot é atualmente um pouco desatualizada e poderá não esta totalmente correta. Se você precisa de ajuda, visite [#gonzobot - Snoonet](https://webchat.snoonet.org/#gonzobot-dev). Eles, com verteza, vão lhe ajudar.
+A documentação do CloudBot é atualmente um pouco desatualizada e poderá não estar totalmente correta. Se você precisa de ajuda, visite [#gonzobot - Snoonet](https://webchat.snoonet.org/#gonzobot-dev). Eles, com verteza, vão lhe ajudar.
 
 Para escrever seus plugins, visite [Página Wiki de plugins do CloudBot](https://github.com/CloudBotIRC/CloudBot/wiki/Writing-your-first-command-plugin).
 
