@@ -1,7 +1,7 @@
 ### Fazendo o Download
 
 #### Arquivo
-Faça o download do CloudBot de [https://github.com/TotallyNotRobots/CloudBot/zipball/gonzobot.zip](https://github.com/TotallyNotRobots/CloudBot/archive/gonzobot.zip) and unzip, ou execute os seguintes comandos:
+Faça o download do CloudBot de [https://github.com/TotallyNotRobots/CloudBot/zipball/gonzobot.zip](https://github.com/TotallyNotRobots/CloudBot/archive/gonzobot.zip) e desenpacote-o, ou execute os seguintes comandos:
 ```bash
 curl -Ls https://github.com/TotallyNotRobots/CloudBot/archive/gonzobot.zip > CloudBot.zip
 unzip CloudBot.zip
@@ -16,7 +16,7 @@ git clone https://github.com/TotallyNotRobots/CloudBot.git
 cd CloudBot
 ```
 
-### Instando Dependências
+### Instalando Dependências
 
 Todas as dependências python do CloudBot's estão listadas no arquivo `requirements.txt`, e podem ser instalados com o pip.
 
