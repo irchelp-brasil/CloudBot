@@ -1,7 +1,7 @@
 # CloudBot
 CloudBot - Um Simples, rápido e versátil, Bot IRC código aberto em Python!
 
-## Download CloudBot
+## Download CloudBot - Versão em Inglês
 
 Há atualmente quatro versões diferentes neste repositório. Cada uma tem um nível de estabilidade e característica:
  - **tucuju** *(estável)*: Esta versão possui tudo que há na versão **master** e na versão **gonzobot** e mais as nossas traduções para o português. Também contém atualizações e correções de vários erros de grafia.
