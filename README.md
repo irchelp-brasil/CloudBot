@@ -9,7 +9,7 @@ CloudBot - Um Simples, rápido e versátil, Bot IRC de código aberto em Python!
 - Para alguns [comandos](https://snoonet.org/gonzobot/) como `.weather`, `.gse`, `.spotify` e outros, é necessário adquirir as respectivas APIs. Procure no google sobre como obter esse recurso das empresas que fornecem esses serviços;
 - Veja o arquivo [CHANGELOG.md](CHANGELOG.md) para ver as últimas atualizações das traduções.
 
-## Download CloudBot (Versão em Português)
+## Download CloudBot
 
 Há atualmente quatro versões diferentes neste repositório. Cada uma tem um nível de estabilidade e característica:
  - **tucuju** *(estável)*: Esta versão possui tudo que há na versão **master** e na versão **gonzobot** e mais as nossas traduções para o português. Também contém atualizações e correções de vários erros de grafia.
