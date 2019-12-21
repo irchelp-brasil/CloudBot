@@ -60,7 +60,7 @@ Se você acredita que achou um bug/tem uma ideia/sugestão, por favor **abra uma
 
 ## Log de mudanças das traduções
 
-Veja [CHANGELOG_TRADUCAO.md](CHANGELOG_TRADUCAO.md)
+Veja [CHANGELOG.md](CHANGELOG.md)
 
 ## Licença
 
