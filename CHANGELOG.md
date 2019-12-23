@@ -1,2 +1,5 @@
 ## Changelog de Traduções
-Ainda não há traduçoes para esta versão final. Por favor, veja a versão em desenvolvimento **tucuju-dev**.
+
+### Dezembro
+23.12.19 - v2 da tradução do plugin duckhunt.py
+23.12.19 - v1 da tradução do plugin system.py
