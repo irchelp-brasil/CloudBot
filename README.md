@@ -4,7 +4,7 @@ CloudBot - Um Simples, rápido e versátil, Bot IRC de código aberto em Python!
 ## Notas
 
 - As versões **gonzobot** e **master** estão com os links direcionados para seus respectivos repositórios proprietários. Nesses dois casos, me detive a apenas traduzir o arquivo de "orientações à instalação" deles, que estão no própio repositório da IRChelp Brasil;
-- Este projeto (tucuju) é relacionado apenas à tradução de software (CloudBot) e não à programação;
+- Este projeto (tucuju) é relacionado apenas à tradução dos plugins do software (CloudBot) e não à programação;
 - Para realizar o download correto, escolha a versão desejada no canto superior esquerdo da página, onde esta escrito **Branch**. Irá aparecer os arquivos dessa versão. Logo após, é só seguir as orientações da seçao Download CloudBot;
 - Para alguns [comandos](https://wiki.irchelp.com.br/wiki/Tucuju) como `.weather`, `.gse`, `.spotify` e outros, é necessário adquirir as respectivas APIs. Procure no google sobre como obter esse recurso das empresas que fornecem esses serviços;
 - Veja o arquivo [CHANGELOG.md](CHANGELOG.md) para ver as últimas atualizações das traduções.
