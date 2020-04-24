@@ -6,7 +6,7 @@ CloudBot - Um Simples, rápido e versátil, Bot IRC de código aberto em Python!
 - As versões **gonzobot** e **master** estão com os links direcionados para seus respectivos repositórios proprietários. Nesses dois casos, me detive a apenas traduzir o arquivo de "orientações à instalação" deles, que estão no própio repositório da IRChelp Brasil;
 - Este projeto (tucuju) é relacionado apenas à tradução dos plugins do software (CloudBot) e não à programação;
 - Para realizar o download correto, escolha a versão desejada no canto superior esquerdo da página, onde esta escrito **Branch**. Irá aparecer os arquivos dessa versão. Logo após, é só seguir as orientações da seçao Download CloudBot;
-- Para alguns [comandos](https://wiki.irchelp.com.br/wiki/Tucuju) como `.weather`, `.gse`, `.spotify` e outros, é necessário adquirir as respectivas APIs. Procure no google sobre como obter esse recurso das empresas que fornecem esses serviços;
+- Para alguns [comandos](https://wiki.irchelp.com.br/wiki/Portal:Tucujú) como `.weather`, `.gse`, `.spotify` e outros, é necessário adquirir as respectivas APIs. Procure no google sobre como obter esse recurso das empresas que fornecem esses serviços;
 - Veja o arquivo [CHANGELOG.md](CHANGELOG.md) para ver as últimas atualizações das traduções.
 
 ## Download CloudBot
@@ -50,7 +50,9 @@ A documentação do CloudBot é atualmente um pouco desatualizada e poderá não
 
 Para escrever seus plugins, visite [Página Wiki de plugins do CloudBot](https://github.com/CloudBotIRC/CloudBot/wiki/Writing-your-first-command-plugin).
 
-Mais infirmações poderão ser encontradas na [Página Principal da mesma Wiki](https://github.com/CloudBotIRC/CloudBot/wiki).
+Mais informações poderão ser encontradas na [Página Principal da mesma Wiki](https://github.com/CloudBotIRC/CloudBot/wiki).
+
+Para saber todos os comandos em português, acesse o [Portal Tucujú](https://wiki.irchelp.com.br/wiki/Portal:Tucujú) em nossa [Wirchelp](https://wiki.irchelp.com.br/).
 
 ### Suporte
 
