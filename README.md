@@ -50,7 +50,9 @@ A documentação do CloudBot é atualmente um pouco desatualizada e poderá não
 
 Para escrever seus plugins, visite [Página Wiki de plugins do CloudBot](https://github.com/CloudBotIRC/CloudBot/wiki/Writing-your-first-command-plugin).
 
-Mais infirmações poderão ser encontradas na [Página Principal da mesma Wiki](https://github.com/CloudBotIRC/CloudBot/wiki).
+Mais informações poderão ser encontradas na [Página Principal da mesma Wiki](https://github.com/CloudBotIRC/CloudBot/wiki).
+
+Para saber todos os comandos em português, acesse o [Portal Tucujú](https://wiki.irchelp.com.br/wiki/Portal:Tucujú) em nossa [Wirchelp](https://wiki.irchelp.com.br/).
 
 ### Suporte
 
